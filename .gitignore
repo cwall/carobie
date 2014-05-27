@@ -1,3 +1,7 @@
 .DS_Store
 *.css
 /logs/*.log
+db.sqlite3
+*.pyc
+carobie/settings.py
+  
